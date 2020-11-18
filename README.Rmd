@@ -41,7 +41,8 @@ morandi_show()
 
 ## DIY your own morandi palette
 
-Select the color(s) that you like:
+Choose the color(s) that you like!
+
 __NOTE__: a numeric vector (in the following example, the `x` is required, and the numbers are the colors you liked from the pie palette)
 
 ```{r}

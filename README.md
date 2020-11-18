@@ -36,7 +36,9 @@ morandi_show()
 DIY your own morandi palette
 ----------------------------
 
-Select the color(s) that you like: **NOTE**: a numeric vector (in the following example, the `x` is required, and the numbers are the colors you liked from the pie palette)
+Choose the color(s) that you like!
+
+**NOTE**: a numeric vector (in the following example, the `x` is required, and the numbers are the colors you liked from the pie palette)
 
 ``` r
 x <- c(6, 8, 13, 15, 28, 56)
